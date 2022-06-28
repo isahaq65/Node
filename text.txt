@@ -1,1 +1,12 @@
 I am boy.
+git init
+git status
+git add .  =>for all file  staging(prev commit) 
+git commit -m "first commit"  =>then commit (master-head) 
+git checkout (id) (file name)  =>back back version
+git checkout -- (file name)  =>latest version
+git log --oneline 
+for untract => .gitignore
+     /(folder)
+     file.js(file)
+
